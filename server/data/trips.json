@@ -1,0 +1,85 @@
+{
+  "trips": [
+    {
+      "id": "trip-1779605245793-3k5swx",
+      "userId": 2,
+      "name": "My Next Retreat",
+      "destination": "Bali, Indonesia",
+      "startDate": "2026-06-07",
+      "endDate": "2026-06-09",
+      "travelers": 1,
+      "status": "booked",
+      "createdAt": "2026-05-24T06:47:25.793Z"
+    }
+  ],
+  "tripItems": [
+    {
+      "id": "trip-item-1779606283611-httiyy",
+      "tripId": "trip-1779605245793-3k5swx",
+      "serviceType": "property",
+      "serviceId": "prop-1",
+      "serviceName": "Emerald Cliff Villa",
+      "location": "Bali, Indonesia",
+      "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop",
+      "scheduledDate": "2026-06-06",
+      "scheduledTime": "10:00",
+      "quantity": 1,
+      "unitPrice": 450,
+      "priceLabel": "/ night",
+      "notes": "",
+      "status": "booked",
+      "createdAt": "2026-05-24T07:04:43.611Z"
+    },
+    {
+      "id": "trip-item-1779606299913-ryl32w",
+      "tripId": "trip-1779605245793-3k5swx",
+      "serviceType": "tour",
+      "serviceId": "8",
+      "serviceName": "Machu Picchu Explorer",
+      "location": "Peru",
+      "image": "https://images.unsplash.com/photo-1526392060635-9d6019884377?w=800&h=600&fit=crop",
+      "scheduledDate": "2026-06-07",
+      "scheduledTime": "10:00",
+      "quantity": 1,
+      "unitPrice": 680,
+      "priceLabel": "/ person",
+      "notes": "",
+      "status": "booked",
+      "createdAt": "2026-05-24T07:04:59.913Z"
+    },
+    {
+      "id": "trip-item-1779606311732-u4f2m0",
+      "tripId": "trip-1779605245793-3k5swx",
+      "serviceType": "trek",
+      "serviceId": "tour-6",
+      "serviceName": "Kilimanjaro Summit Trek",
+      "location": "Tanzania",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "scheduledDate": "2026-06-08",
+      "scheduledTime": "10:00",
+      "quantity": 1,
+      "unitPrice": 2100,
+      "priceLabel": "/ person",
+      "notes": "",
+      "status": "booked",
+      "createdAt": "2026-05-24T07:05:11.732Z"
+    },
+    {
+      "id": "trip-item-1779606326013-i72h1n",
+      "tripId": "trip-1779605245793-3k5swx",
+      "serviceType": "restaurant",
+      "serviceId": "rest-2",
+      "serviceName": "Sakura Omakase",
+      "location": "Kyoto, Japan",
+      "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=800&h=600&fit=crop",
+      "scheduledDate": "2026-06-07",
+      "scheduledTime": "10:00",
+      "quantity": 2,
+      "unitPrice": 0,
+      "priceLabel": "reservation",
+      "notes": "",
+      "status": "booked",
+      "createdAt": "2026-05-24T07:05:26.014Z"
+    }
+  ]
+}
